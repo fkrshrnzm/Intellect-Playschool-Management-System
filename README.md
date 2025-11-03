@@ -1,4 +1,4 @@
-Intellect Playschool Management System
+<h3>Intellect Playschool Management System</h3>
 <hr>
 
 Welcome to the repository for Intellect Playschool Management System. This is my group project for Intellect Playschool JB which is our client. We are assigned to create a website for the playschool. Our team consist of 5 group members are in charge of doing several modules in order to complete thje website. I am in charge of doing the assessment and login modules. Our group managed to complete the website within the deadline given which is in 3 months.
